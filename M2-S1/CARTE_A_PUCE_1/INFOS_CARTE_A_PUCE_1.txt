@@ -1,0 +1,16 @@
+-----Enseignants-----
+Damien Sauveron (damien.sauveron@unilim.fr)
+
+
+-----Répartition des cours-----
+CM : 15
+TP : 15
+
+
+-----Évaluations-----
+TP 	: 1h30 , 1/2
+Écrit 	: 1h30 , 1/2
+
+
+-----Commentaires-----
+Nécessite une bonne maîtrise préalable du langage java.
