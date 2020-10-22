@@ -1,0 +1,17 @@
+-----Enseignants-----
+Abbas MOVAHHEIDI (abbas.movahhedi@xlim.fr)
+
+
+-----Répartion des cours-----
+CM : 15
+TD : 15
+
+
+-----Évaluations-----
+Partiel : 2h , 1/3
+Écrit	: 2h , 2/3
+
+
+-----Commentaires-----
+Enseignement théorique, en continuité du cours d'algèbre de M1
+Notation très souple (il fera tout pour que vous ayez plus de 10)

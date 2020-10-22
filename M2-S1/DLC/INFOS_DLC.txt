@@ -1,0 +1,20 @@
+-----Enseignants-----
+Cristophe CLAVIER (christophe.clavier@unilim.fr)
+
+
+-----Répartion des cours-----
+CM : 15
+TP : 15
+
+
+-----Évaluations-----
+Projet	: 1/2
+Écrit 	: 1/2
+
+
+-----Commentaires-----
+Rendez les TP, vous pourrez avoir des points bonus si nécessaire.
+Ce sera le premier projet que vous aurez, faites le rapidement pour avoir le temps de faire les autres au
+mois de janvier.
+
+Installation GMP : sudo apt-get install libgmp3-dev

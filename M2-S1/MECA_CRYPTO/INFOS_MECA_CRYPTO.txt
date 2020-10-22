@@ -1,0 +1,23 @@
+-----Enseignants-----
+Philippe GABORIT (gaborit@unilim.fr)
+Olivier BLAZY (olivier.blazy@unilim.fr)
+
+
+-----Répartition des cours-----
+CM : 21
+TD : 15
+TP : 9
+
+
+-----Evaluations-----
+Partiel	: 1h30 , 1/3
+Rapport	: 1/3
+Écrit 	: 2h , 1/3
+TP	: Bonus de 2 points sur la moyenne
+
+
+-----Informations-----
+Pour la soutenance du rapport, passez le premier jour, il sera plus indulgent
+Pour le partiel et l'écrit, les exercices se ressemblent d'une année à l'autre
+(sauf en 2018 où il a fait de nouveaux exercices). Mais la plupart proviennent
+du poly fourni dans le dossier SUPPORT
